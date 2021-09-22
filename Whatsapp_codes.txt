@@ -4,6 +4,10 @@ Whatsapp Development code
 
 2. Initial setup code
 
-3. Chat code
+3. Chat window code
 
-4. File sending (img, audio, document)code
+4. File sending (img, audio, video)code
+
+5. profile pic code
+
+6.Last seen code
