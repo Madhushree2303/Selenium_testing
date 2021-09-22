@@ -1,6 +1,7 @@
 Whatsapp Development code
+Applcation downloading setup
 
-1. Application launching code
+1. Application icon launching code
 
 2. Initial setup code
 
