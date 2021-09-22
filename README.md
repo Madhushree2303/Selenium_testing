@@ -1,2 +1,2 @@
-# Selenium_testing
-This repository is used for selenium testing
+# Whatsapp_development
+This repository is used for developing an chat application
