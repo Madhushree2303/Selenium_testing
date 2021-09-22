@@ -1,0 +1,9 @@
+Whatsapp Development code
+
+1. Application launching code
+
+2. Initial setup code
+
+3. Chat code
+
+4. File sending (img, audio, document)code
