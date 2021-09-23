@@ -12,3 +12,7 @@ Applcation downloading setup
 5. profile pic code
 
 6.Last seen code
+
+7.Adding Video feature code
+
+8.Adding audio feature code
